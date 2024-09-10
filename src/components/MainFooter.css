@@ -1,0 +1,33 @@
+.MainFooter {
+  margin-bottom: 30px;
+}
+
+.hiarcImg {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.MainFooter {
+  display: flex;
+}
+
+.left1 {
+  font-size: 30px;
+}
+
+.right {
+  margin-left: auto;
+}
+
+.right1 {
+  margin-left: px;
+}
+
+.right2 {
+  margin-left: 30px;
+}
+
+.right3 {
+  margin-left: 27px;
+}

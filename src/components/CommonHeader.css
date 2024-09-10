@@ -1,0 +1,22 @@
+.Top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.leftButton {
+  border: none;
+  background-color: #fffced;
+  color: #00aaff;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.hitingButton {
+  border: none;
+  color: #00aaff;
+  background-color: #fffced;
+  cursor: pointer;
+  text-decoration: none;
+}

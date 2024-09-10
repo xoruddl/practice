@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "PixelifySans-VariableFont_wght";
+  src: url("PixelifySans-VariableFont_wght.ttf");
+}
+
+.MainBody .Top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Top > img {
+  width: 450px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.MainBody .Top .introButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.MainBody .Top .introButton > button {
+  cursor: pointer;
+  padding: 15px 10px;
+  border: none;
+  background-color: #fffced;
+  color: #00aaff;
+  border-bottom: 1px solid;
+  margin-bottom: 1px;
+}
+
+.MainBody .Top .introButton > button:hover {
+  background-color: #00aaff;
+  color: white;
+  border-radius: 5px;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  border: 2.5px solid;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+.intro .ICPC_button {
+  margin-left: auto;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #fffced;
+  color: #00aaff;
+  border-bottom: 1px solid;
+  margin-bottom: 1px;
+  text-decoration: none;
+}
+
+.intro .ICPC_button:hover {
+  background-color: #00aaff;
+  color: white;
+  border-radius: 5px;
+}
